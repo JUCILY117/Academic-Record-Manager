@@ -66,3 +66,7 @@ Projects like Class Manager is a great choice to practice your Django skills and
 
 Projects like Class Manager is a great choice to practice your Django skills and test yourself. 
 
+
+
+
+Projects like Class Manager is a great choice to practice your Django skills and test yourself. 
