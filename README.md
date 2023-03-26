@@ -65,5 +65,3 @@ Also adding features like notice, messages, Assignment, adding students to the c
 Projects like Class Manager is a great choice to practice your Django skills and test yourself. 
 
 
-
-11. User can add profile picture and edit their profile through edit profile.
