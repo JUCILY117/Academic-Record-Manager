@@ -64,5 +64,5 @@ Class Manager uses the multi-user concept of Django where student and teacher ar
 Also adding features like notice, messages, Assignment, adding students to the class etc. requires a lot of Django concepts.
 Projects like Class Manager is a great choice to practice your Django skills and test yourself. 
 
-
+Projects like Class Manager is a great choice to practice your Django skills and test yourself. 
 
