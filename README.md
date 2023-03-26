@@ -66,3 +66,4 @@ Projects like Class Manager is a great choice to practice your Django skills and
 
 
 
+11. User can add profile picture and edit their profile through edit profile.
