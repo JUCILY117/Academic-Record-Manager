@@ -63,5 +63,5 @@ Teacher can check submissions made by their students  and can give them marks fo
 Class Manager uses the multi-user concept of Django where student and teacher are different types of user and have different functionalities.
 Also adding features like notice, messages, Assignment, adding students to the class etc. requires a lot of Django concepts.
 Projects like Class Manager is a great choice to practice your Django skills and test yourself. 
-
+Class Manager is a Student-Teacher Portal where techers and student can sign up and teachers can add students in their class.
 
